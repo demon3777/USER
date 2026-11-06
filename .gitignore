@@ -1,5 +1,5 @@
 *.log
 .env
 .DS_Store
-bin/
-obj/
+__pycache__/
+node_modules/
